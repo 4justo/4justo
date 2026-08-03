@@ -111,7 +111,31 @@ Cloud Computing           ██████████████░░░░
 
 # 💡 Quote
 
-> *"Building software that solves problems—not just software that works."*
+> *"Building software that solves problems not just software that works."*
+
+---
+
+# 👥 Collaboration
+
+<h2 align="center">🚀 Open to Collaborate</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-success?style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Open Source</b> • <b>AI</b> • <b>Full Stack</b> • <b>Machine Learning</b>
+</p>
+
+<p align="center">
+  If you think we'd build something awesome together,
+  send an invitation or open a discussion. 
+</p>
+</p>
+
+<p align="center">
+  <b>@4justo</b>
+</p>
 
 ---
 
