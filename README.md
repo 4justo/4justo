@@ -74,7 +74,7 @@ Machine Learning • Deep Learning • TensorFlow • PyTorch • Pandas • Num
 # 📊 GitHub Statistics
 
 <p align="center">
- /*<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4justo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />*/
+ <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4justo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4justo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
