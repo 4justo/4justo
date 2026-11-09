@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=260&section=header&text=Symon%20Onoka.&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=20&descColor=e6e6e6" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=260&section=header&text=Symon%20&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=20&descColor=e6e6e6" width="100%" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 ---
-
-# 👋 About Me
+<!--
+#  About Me
 
 ```yaml
 Name: Symon Onoka.
@@ -32,6 +32,7 @@ Open To:
 ```
 
 ---
+-->
 
 # 💻 Tech Stack
 
